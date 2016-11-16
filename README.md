@@ -1,0 +1,2 @@
+# NavigationBarDemo
+模仿简书导航栏图片随着UIScrollView的上下滚动改变大小
